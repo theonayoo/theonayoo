@@ -1,7 +1,7 @@
 
 ## 👋 Hi there,
 
- I’m SA NAY NAY OO ( Theo ) from Burma, developing a mobile app and deploying cross-platform mobile applications. I really enjoy learning languages and frameworks like React Native, React, Flutter, NodeJS. Proficient in developing robust, scalable, and user-friendly mobile solutions using React Native framework and associated technologies. Strong problem-solving abilities, attention to detail, and a commitment to staying updated with the latest trends and best practices in Mobile & Web development.
+ I am SA NAY NAY OO ( Theo ) from Burma, developing a mobile app and deploying cross-platform mobile applications. I really enjoy learning languages and frameworks like React Native, React, Flutter, NodeJS. Proficient in developing robust, scalable, and user-friendly mobile solutions using React Native framework and associated technologies. Strong problem-solving abilities, attention to detail, and a commitment to staying updated with the latest trends and best practices in Mobile & Web development.
 
 - 👨‍💻 Currently working with [NINE COMPLEX](https://ninecomplex.com) as a Senior React Native Engineer based in Burma.
 - 📚 Currently learning [NodeJS](https://nodejs.org/en).
@@ -33,3 +33,10 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
+
+
