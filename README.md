@@ -15,10 +15,15 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaynayoo/)
 
-## Portfolio In Google Play Store
-
-( [Google Play Store](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae) )
-
-<img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_01.png" height="200" />   <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_02.png" height="200" />   <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_03.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_04.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_05.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_06.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_07.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_08.png" height="200" />
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanaynayoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanaynayoo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/theonayoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae)
+## Languages and Tools 🛠
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
