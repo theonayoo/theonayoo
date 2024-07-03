@@ -11,7 +11,7 @@
 
 
 ## Connect with me 📇
-[![Discord](https://img.shields.io/badge/Discord-5966F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/sanaynayoo/sanaynayoo/)
+[![Discord](https://img.shields.io/badge/Discord-5966F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@sanaynayoo)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaynayoo/)
 
